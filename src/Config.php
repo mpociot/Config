@@ -421,7 +421,7 @@ class Config
         'array_element_white_space_after_comma',
         'blankline_after_open_tag',
         'ort_braces',
-        'concat_without_spaces',
+        'concat_with_spaces',
         'double_arrow_multiline_whitespaces',
         'double_quote',
         'duplicate_semicolon',
