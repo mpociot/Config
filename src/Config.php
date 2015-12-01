@@ -41,6 +41,7 @@ class Config
         'concat_without_spaces',
         'concat_with_spaces',
         'double_arrow_multiline_whitespaces',
+        'double_quote',
         'duplicate_semicolon',
         'elseif',
         'empty_return',
@@ -422,6 +423,7 @@ class Config
         'ort_braces',
         'concat_without_spaces',
         'double_arrow_multiline_whitespaces',
+        'double_quote',
         'duplicate_semicolon',
         'elseif',
         'empty_return',
@@ -477,7 +479,6 @@ class Config
         'single_array_no_trailing_comma',
         'single_blank_line_before_namespace',
         'single_line_after_imports',
-        'single_quote',
         'spaces_before_semicolon',
         'spaces_cast',
         'standardize_not_equal',
@@ -514,6 +515,7 @@ class Config
         'psr0'                            => 'psr4',
         'unalign_double_arrow'            => 'align_double_arrow',
         'unalign_equals'                  => 'align_equals',
+        'single_quote'                    => 'double_quote'
     ];
 
     /**
