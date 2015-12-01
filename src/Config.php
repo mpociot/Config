@@ -431,7 +431,6 @@ class Config
         'eof_ending',
         'extra_empty_lines',
         'function_call_space',
-        'function_declaration',
         'function_typehint_space',
         'include',
         'indentation',
